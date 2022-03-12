@@ -6,7 +6,7 @@
             + Coding, Implementing unique progression and battle systems.
             
 - 🌱 I’m currently learning:
-          - Full Stack Java, PostgresQL, Spring.
+          - Full Stack Java, PostgreSQL, Spring.
 
 - 💞️ I’m looking to collaborate on:
           - Turn Based Games
