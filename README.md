@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Flo!
+<h1> Hi, I’m Flo! </h1>
 
-- 👀 I’m interested in:
-
+<h2> I’m interested in: <h2>
 <ul>
           <li>
                     Video Games
@@ -18,10 +17,8 @@
                     </ul>
           </li>
 </ul>
-          
-                              
-          
-            
+<br/>
+
 - 🌱 I’m currently learning:
           - Full Stack Java, PostgreSQL, Spring.
 
