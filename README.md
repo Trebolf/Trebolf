@@ -1,9 +1,26 @@
 - 👋 Hi, I’m Flo!
 
 - 👀 I’m interested in:
-          - Video Games
-            + Concept Art, Character and Environmental Design.
-            + Coding, Implementing unique progression and battle systems.
+
+<ul>
+          <li>
+                    Video Games
+                    <ul>
+                              <li> Concept Art, Character and Environmental Design. </li>
+                              <li> Coding, Implementing unique progression and battle systems. </li>
+                    </ul>
+          </li>
+          <li>
+                    Websites
+                    <ul>
+                              <li> Writing clean code, creating well-structured websites. </li>
+                              <li> Designing attractive websites, implementing my experience with graphic design and digital art. </li>
+                    </ul>
+          </li>
+</ul>
+          
+                              
+          
             
 - 🌱 I’m currently learning:
           - Full Stack Java, PostgreSQL, Spring.
