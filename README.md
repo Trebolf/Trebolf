@@ -1,6 +1,6 @@
-<h1> Hi, I’m Flo! </h1>
+<h2> Hi, I’m Flo! </h2>
 
-<h2> I’m interested in: <h2>
+<h3> I’m interested in: </h3>
 <ul>
           <li>
                     Video Games
@@ -19,15 +19,26 @@
 </ul>
 <br/>
 
-- 🌱 I’m currently learning:
-          - Full Stack Java, PostgreSQL, Spring.
 
-- 💞️ I’m looking to collaborate on:
-          - Turn Based Games
-          - Strategy Games
-           
-- 📫 How to reach me:
-          - Email: wangsawihardja_fvw@yahoo.com
+<h3> I’m currently learning: </h3>
+<ul>
+          <li> Full Stack Java: Java, PostgreSQL, Spring, Angular, HTML, CSS, JavaScript. </li>
+</ul>
+<br/>
+                    
+
+<h3> I’m looking to collaborate on: </h3>
+<ul>
+          <li> Turn Based Games </li>
+          <li> Strategy Games </li>
+          <li> Website Design </li>
+</ul>
+<br/>
+
+<h3> How to reach me: </h3>
+<ul>
+          <li> Email: wangsawihardja_fvw@yahoo.com </li>
+</ul>
 
 <!---
 Trebolf/Trebolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
